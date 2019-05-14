@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"><b>Booking Train</b></string>
+    <string name="txtName"><b>Name</b></string>
+    <string name="txtPhone"><b>Phone</b></string>
+    <string name="rdSeat"><b>Seat</b></string>
+    <string name="rdBoth"><b>Bed</b></string>
+
+    <string name="btnCancel"><b>Cancel</b></string>
+    <string name="btnBook"><b>Book</b></string>
+
+    <string name="vip_member"><b>Vip Member</b></string>
+
+
+    <string name="book"><b>Book</b></string>
+    <string name="cancel"><b>Cancel</b></string>
+    <string name="the_seat_type"><b>The Seat Type</b></string>
+    <string name="Currency"><b>Currency</b></string>
+    <string-array name="lan_array">
+        <item><b>USD</b></item>
+        <item><b>VND</b></item>
+    </string-array>
+</resources>
